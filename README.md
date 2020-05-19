@@ -51,9 +51,6 @@ This project was solved as completion database lessons at the Microverse program
 
 **Tutorial Student Records**
 - Creating a database
-
-**Tutorial DDL**
-- Instructions on how to import data and analyse it in mysql
 </details>
 
 ## Built With
@@ -65,7 +62,7 @@ This project was solved as completion database lessons at the Microverse program
 👤 **Evanson Igiri**
 
 - Github: [@evansinho](https://github.com/evansinho)
-- Twitter: [@iamsevanson](https://twitter.com/batandayamo)
+- Twitter: [@iamevanson](https://twitter.com/iamevanson)
 - Linkedin: [Evanson Igiri](http://bit.ly/evanson-igiri)
 
 ## 🤝 Contributing
